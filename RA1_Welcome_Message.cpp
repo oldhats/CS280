@@ -21,7 +21,7 @@ int main (int argc, char *argv[]) {
     cout << "Please enter your CS 280 section number >>" << endl;
     cin >> sectionNumber;
 
-    cout << "Welcome " << firstName << " to CS 280 section " << sectionNumber << endl;
+    cout << "Welcome " << firstName << " to CS 280 section " << sectionNumber << "." << endl;
 
 
 
