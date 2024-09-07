@@ -5,7 +5,6 @@
 // Name: Welcome Message
 // Description: Welcomes a student to CS280
 
-#include "RA1_Welcome_Message.h"
 
 #include <iostream>
 #include <string>
