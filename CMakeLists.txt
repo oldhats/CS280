@@ -9,4 +9,8 @@ add_executable(CS280 main.cpp
         main.cpp
         main.cpp
         main.cpp
-        main.cpp)
+        main.cpp
+        "RA Submissions/RA1_Welcome_Message.cpp"
+        "RA Submissions/RA2_Submission.cpp"
+        "RA Submissions/RA2_Submission.h"
+)
