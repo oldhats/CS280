@@ -13,4 +13,6 @@ add_executable(CS280 main.cpp
         "RA Submissions/RA1_Welcome_Message.cpp"
         "RA Submissions/RA2_Submission.cpp"
         "RA Submissions/RA2_Submission.h"
+        "RA Submissions/RA3_CountingInteger.cpp"
+        "RA Submissions/RA4_M_Phillips.cpp"
 )
